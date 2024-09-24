@@ -14,7 +14,6 @@
     <li>Select One Student and Assign one Mentor</li>
   </ul>
   <li>Write API to show all students for a particular mentor</li>
-  <li>Write an API to show the previously assigned mentor for a particular student.</li>
 </ol>
 
 ## The above mentioned is the base Url of the Mentor and Student Assigning With Database
